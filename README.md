@@ -26,25 +26,30 @@ Design database tables for Books, Members, Transactions, and Staff.
 
 ## USECASE DIAGRAM:
 
+![image](https://github.com/Ashera2004/Exp-2/blob/main/2026-03-16%2015_42_33-Use%20Case%20Diagram.mdj%20%E2%80%94%20StarUML%20(UNREGISTERED).png)
+
 
 ## CLASS DIAGRAM:
 
+![image](https://github.com/Ashera2004/Exp-2/blob/main/2026-03-16%2015_45_13-Class%20Diagram.mdj%20%E2%80%94%20StarUML%20(UNREGISTERED).png)
 
 
 ## COMMUNICATION DIAGRAM:
 
+![image](https://github.com/Ashera2004/Exp-2/blob/main/2026-03-16%2015_44_39-%E2%80%A2%20Communication%20Diagram.mdj%20%E2%80%94%20StarUML%20(UNREGISTERED).png)
 
 
 ## ACTIVITY DIAGRAM:
 
+![image](https://github.com/Ashera2004/Exp-2/blob/main/2026-03-16%2015_45_54-Activity%20Diagram.mdj%20%E2%80%94%20StarUML%20(UNREGISTERED).png)
 
 ## SEQUENCE DIAGRAM:
 
-
+![image](https://github.com/Ashera2004/Exp-2/blob/main/2026-03-16%2015_43_14-Sequential%20Diagram.mdj%20%E2%80%94%20StarUML%20(UNREGISTERED).png)
 
 ## PACKAGE DIAGRAM:
 
-
+![image](https://github.com/Ashera2004/Exp-2/blob/main/2026-03-16%2015_43_45-package%20diagram.mdj%20%E2%80%94%20StarUML%20(UNREGISTERED).png)
 
 # RESULT:
 
